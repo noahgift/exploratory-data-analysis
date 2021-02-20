@@ -1,6 +1,6 @@
 # exploratory-data-analysis
-EDA ideas 
 
+[EDA ideas for text](https://github.com/noahgift/exploratory-data-analysis/blob/main/EDA_explorations_text.ipynb)
 
 ### This is an exploration of the book Old man in the Sea
 
