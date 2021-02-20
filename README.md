@@ -9,3 +9,8 @@ EDA ideas
 
 
 ![word-counts](https://user-images.githubusercontent.com/58792/108598333-1b2bb700-735b-11eb-9d40-a07edd2646c9.png)
+
+
+### Computer Vision with AWS Rekognition
+
+![computer-vision](https://user-images.githubusercontent.com/58792/108598459-c0468f80-735b-11eb-81ca-7dd057a0f965.png)
